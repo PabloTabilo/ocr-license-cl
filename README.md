@@ -51,3 +51,33 @@
 | Despliegue de Infraestructura| Semana 8       | MVP desplegado en un entorno en la nube (por ejemplo, AWS). |
 | Presentación de la Demo      | Semana 9       | Demo funcional lista para posibles clientes.        |
 | Retroalimentación e Iteración| Semana 10-11   | Recopilar retroalimentación y planificar características secundarias (por ejemplo, video en tiempo real). |
+
+| **Hito**                    | **Tarea**|
+|------------------------------|------------------------------------------------------------------|
+| Finalizar Pila Tecnológica   | - Evaluar pros y contras entre SQL y MongoDB para la base de datos.|
+|                              | - Revisar opciones para hosting y GPUs (AWS, Azure, GCP).|
+|                              | - Tomar decisiones finales sobre herramientas para frontend y backend.|
+| Configuración del Modelo OCR | - Recolectar un dataset inicial para entrenamiento (placas).|
+|                              | - Preprocesar datos y etiquetarlos adecuadamente.|
+|                              | - Entrenar un modelo OCR base en PyTorch con resultados iniciales.|
+|                              | - Evaluar precisión inicial del modelo y ajustar hiperparámetros básicos.|
+| Esqueleto del API Backend    | - Crear estructura inicial de FastAPI con endpoints básicos.|
+|                              | - Integrar FastAPI con una base de datos dummy (mock).|
+|                              | - Crear un endpoint para enviar imágenes y recibir texto como respuesta.|
+| Prototipo del Frontend       | - Crear un mockup básico de la interfaz de usuario.|
+|                              | - Configurar un entorno básico de React Native o alternativa.|
+|                              | - Implementar un formulario para subir imágenes y mostrar resultados.|
+| Integración y Pruebas del MVP| - Conectar el backend con el frontend (pruebas manuales).|
+|                              | - Probar integración con el modelo OCR (peticiones REST).|
+|                              | - Realizar pruebas de rendimiento iniciales para tiempos de respuesta.|
+|                              | - Identificar y corregir errores básicos del MVP.|
+| Despliegue de Infraestructura| - Configurar Docker para backend y modelo.|
+|                              | - Configurar entorno en la nube para hospedar el MVP (AWS u otra).|
+|                              | - Realizar pruebas del MVP en el entorno en la nube.|
+| Presentación de la Demo      | - Preparar casos de uso para la demo (escenarios prácticos).|
+|                              | - Crear una presentación simple para mostrar resultados y características.|
+|                              | - Realizar pruebas previas de la demo con colegas o conocidos.|
+| Retroalimentación e Iteración| - Recolectar y analizar retroalimentación de clientes potenciales.|
+|                              | - Priorizar tareas para la siguiente iteración (video en tiempo real, etc.).|
+
+
